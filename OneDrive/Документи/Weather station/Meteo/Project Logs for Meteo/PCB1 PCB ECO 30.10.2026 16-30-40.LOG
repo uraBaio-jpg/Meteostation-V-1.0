@@ -1,9 +1,0 @@
-Added Pin To Net: NetName=NetU1_23 Pin=U1-24
-Added Pin To Net: NetName=NetU1_23 Pin=U2-4
-Added Pin To Net: NetName=NetU1_23 Pin=U3-3
-Added Pin To Net: NetName=NetU1_23 Pin=U4-4
-Added Pin To Net: NetName=out Pin=U1-7
-Added Net: Name=out
-Added Member To Class: ClassName=Meteo.SchDoc. Member=Component  RGB
-Added Member To Class: ClassName=Meteo.SchDoc. Member=Component R1 RES
-Added Member To Class: ClassName=Meteo.SchDoc. Member=Component U5 TTP223
