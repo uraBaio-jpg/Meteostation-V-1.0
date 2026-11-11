@@ -1,0 +1,17 @@
+Added Pin To Net: NetName=NetU1_7 Pin=U1-7
+Added Pin To Net: NetName=NetJ1_1 Pin=U2-1
+Added Pin To Net: NetName=NetJ1_2 Pin=U2-2
+Added Pin To Net: NetName=NetU1_23 Pin=U2-3
+Added Pin To Net: NetName=NetU1_24 Pin=U2-4
+Added Pin To Net: NetName=NetJ1_1 Pin=U3-1
+Added Pin To Net: NetName=NetU1_23 Pin=U3-2
+Added Pin To Net: NetName=NetU1_24 Pin=U3-3
+Added Pin To Net: NetName=NetJ1_2 Pin=U3-4
+Added Pin To Net: NetName=NetJ1_2 Pin=U3-5
+Added Pin To Net: NetName=NetJ1_1 Pin=U4-1
+Added Member To Class: ClassName=Meteo.SchDoc. Member=Component J1 B2B-PH-K-S(LF)(SN)
+Added Member To Class: ClassName=Meteo.SchDoc. Member=Component U1 ARDUINO_NANO
+Added Member To Class: ClassName=Meteo.SchDoc. Member=Component U2 BME280
+Added Member To Class: ClassName=Meteo.SchDoc. Member=Component U3 PBS_1X5
+Added Member To Class: ClassName=Meteo.SchDoc. Member=Component U4 PBS_1X4
+Added Member To Class: ClassName=Meteo.SchDoc. Member=Component U5 TTP223

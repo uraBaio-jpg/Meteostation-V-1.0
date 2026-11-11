@@ -1,0 +1,45 @@
+Added Component: Designator=LCD1(SAMTEC_MTSW-104-09-G-S-234)
+Add component (AddParameter): Name = "Contributor"; Value = "aleixomartins"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "link"; Value = "https://www.robotshop.com/uk/iic-i2ctwi-serial-200420x4-lcd-module-shield-arduino-unomega2560.html?gclid=Cj0KCQjwpavpBRDQARIsAPfTwiyGF1f6oiEk6OW8X2CYoiw0-JQKbheO5Gnd5XsySLkRKBKcqSawlq8aAmdQEALw_wcB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Various"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "LCD2004  I2C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "LCD2004_I2C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U1(MODULE_ARDUINO_NANO)
+Add component (AddParameter): Name = "Contributor"; Value = "lcsc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "null"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "ARDUINO_NANO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "U"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "ARDUINO_NANO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C9900017879"; VariantName = "[No Variations]"
+Added Component: Designator=U2(SAMTEC_MTSW-104-09-G-S-234)
+Add component (AddParameter): Name = "Contributor"; Value = "Dorin Nicoara"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "U"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "BME280 I2C MODULE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=U1-29
+Added Net: Name=GND
+Added Net: Name=Net_1
+Added Net: Name=Net_2
+Added Net: Name=Net_3
+Added Net: Name=Net_4
+Added Pin To Net: NetName=NetLCD1_3 Pin=U1-23
+Added Net: Name=NetLCD1_3
+Added Pin To Net: NetName=NetLCD1_4 Pin=U1-24
+Added Net: Name=NetLCD1_4
+Added Net: Name=NetSW1_3
+Added Pin To Net: NetName=NetU1_7 Pin=U1-7
+Added Net: Name=NetU1_7
+Added Pin To Net: NetName=VCC Pin=U1-27
+Added Net: Name=VCC
+Added Class: Name=Meteo.SchDoc.
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1
